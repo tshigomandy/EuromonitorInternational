@@ -14,6 +14,7 @@ namespace EuromonitorInternational
     public class Vehicle
     {
         public int id { get; }
+
         public string model { get; }
         public string colour { get; }
         public string manufacturer { get; }
